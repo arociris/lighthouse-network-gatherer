@@ -1,7 +1,7 @@
 {
   "name": "lighthouse-network-gatherer",
   "version": "1.0.0",
-  "description": "This gatherer can be used to capture all network requests from lighthouse.",
+  "description": "This gatherer can be used to capture all network requests originated from browser while auditated by Google Lighthouse plugin.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
