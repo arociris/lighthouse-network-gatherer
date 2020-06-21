@@ -1,6 +1,6 @@
 {
   "name": "lighthouse-network-gatherer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This gatherer can be used to capture all network requests originated from browser while auditated by Google Lighthouse plugin.",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,13 @@
   "dependencies": {
     "chrome-remote-interface": "^0.28.2",
     "lighthouse": "^6.0.0"
-  }
+  },
+  "keywords": [
+    "google",
+    "chrome",
+    "devtools",
+    "lighthouse",
+    "custom gathrer",
+    "custom audit"
+  ]
 }
