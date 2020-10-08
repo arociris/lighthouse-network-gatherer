@@ -3,7 +3,7 @@
 const {Gatherer} = require('lighthouse');
 const CDP = require('chrome-remote-interface');
 
-/** Network captute class*/
+/** Network capture class*/
 class captureNetwork extends Gatherer {
   constructor(){
     super()
